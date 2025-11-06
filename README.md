@@ -32,5 +32,5 @@ This research matters because it offers a way to automate the incredibly complex
 The study's conclusions are based on data from six domains, but all were derived from Wikipedia. Performance on completely different data (like private company docs) might vary. The search is also limited to the 46,080 configurations defined by the authors; it doesn't invent brand-new techniques. Finally, the genetic search is a "one-time" but computationally heavy cost.
 
 ## Full Citation
-Kartal, M. Y., Kose, S. K., Sevinç, K., and Aktas, B., 2025, RAGSmith: A Framework for Finding the Optimal Composition of Retrieval-Augmented Generation Methods Across Datasets, arXiv:2511.01386v1 [cs.CL].
+#### Kartal, M. Y., Kose, S. K., Sevinç, K., and Aktas, B., 2025, RAGSmith: A Framework for Finding the Optimal Composition of Retrieval-Augmented Generation Methods Across Datasets, arXiv:2511.01386v1 [cs.CL].
 ---
