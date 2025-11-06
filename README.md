@@ -1,5 +1,5 @@
 # Project: The RAGSmith's Forge
----
+
 A Creative Distillation of "RAGSmith: A Framework for Finding the Optimal Composition..."
 * Student: Aniket Anil Naik (SJSU ID: 019107114)
 * Class: CMPE-255: Data Mining (Fall 2025)
@@ -34,3 +34,4 @@ The study's conclusions are based on data from six domains, but all were derived
 
 # Full Citation
 Kartal, M. Y., Kose, S. K., Sevinç, K., and Aktas, B., 2025, RAGSmith: A Framework for Finding the Optimal Composition of Retrieval-Augmented Generation Methods Across Datasets, arXiv:2511.01386v1 [cs.CL].
+---
