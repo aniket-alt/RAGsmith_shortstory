@@ -1,6 +1,5 @@
 # Project:  RAGSmith: A Framework for Finding the Optimal Composition of Retrieval-Augmented Generation Methods Across Datasets
 
-A Creative Distillation of "RAGSmith: A Framework for Finding the Optimal Composition..."
 * Student: Aniket Anil Naik (SJSU ID: 019107114)
 * Class: CMPE-255: Data Mining (Fall 2025)
 * Instructor: Professor Vijay Eranti
