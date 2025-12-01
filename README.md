@@ -12,7 +12,7 @@ Here are the links to the "Short Story" components created for this assignment:
 |-----------|-------------|------|
 | **📝 Medium Article** | A deep dive into why "Greedy" RAG fails and how Evolution fixes it. | [**Read on Medium**]([https://medium.com/@aniketanil.naik/ragsmith-evolving-the-perfect-rag-why-the-best-ai-pipeline-isnt-built-it-s-bred-da00eb2885e9?postPublishedType=repub]) |
 | **📊 Slide Deck** | Presentation slides explaining the RAGSmith framework & results. | [**View Slides (PDF)**]([./RAGSmith_Presentation.pdf](https://docs.google.com/presentation/d/1pTf2jy5p0xU5QkzL4TVDk_OuriReLiRw/edit?usp=sharing&ouid=114601031286503291700&rtpof=true&sd=true)) |
-| **🎥 Video Presentation** | A walkthrough of the paper and findings. | [**Watch Video**]([[INSERT_VIDEO_LINK_OR_FILE_PATH]](https://drive.google.com/file/d/1pIYnmOeNLzLEQlf8b1jRtLPHZmYY4N5a/view?usp=sharing)) |
+| **🎥 Video Presentation** | A walkthrough of the paper and findings. | [**Watch Video**](https://drive.google.com/file/d/1pIYnmOeNLzLEQlf8b1jRtLPHZmYY4N5a/view?usp=sharing) |
 
 ## Project Objective
 This project translates the core technical concepts from the RAGSmith research paper into a short story. The story personifies the paper's central problem (brittle, isolated RAG components) and its solution (an end-to-end genetic search framework) to make the findings more intuitive and memorable.
