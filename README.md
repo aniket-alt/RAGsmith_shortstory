@@ -10,7 +10,7 @@ Here are the links to the "Short Story" components created for this assignment:
 
 | Component | Description | Link |
 |-----------|-------------|------|
-| **📝 Medium Article** | A deep dive into why "Greedy" RAG fails and how Evolution fixes it. | [**Read on Medium**]([https://medium.com/@aniketanil.naik/ragsmith-evolving-the-perfect-rag-why-the-best-ai-pipeline-isnt-built-it-s-bred-da00eb2885e9?postPublishedType=repub]) |
+| **📝 Medium Article** | A deep dive into why "Greedy" RAG fails and how Evolution fixes it. | [**Read on Medium**](https://medium.com/@aniketanil.naik/ragsmith-evolving-the-perfect-rag-why-the-best-ai-pipeline-isnt-built-it-s-bred-da00eb2885e9?postPublishedType=repub) |
 | **📊 Slide Deck** | Presentation slides explaining the RAGSmith framework & results. | [**View Slides (PDF)**](https://docs.google.com/presentation/d/1pTf2jy5p0xU5QkzL4TVDk_OuriReLiRw/edit?usp=sharing&ouid=114601031286503291700&rtpof=true&sd=true) |
 | **🎥 Video Presentation** | A walkthrough of the paper and findings. | [**Watch Video**](https://drive.google.com/file/d/1pIYnmOeNLzLEQlf8b1jRtLPHZmYY4N5a/view?usp=sharing) |
 
